@@ -3,7 +3,7 @@ Alien_Invaders
 
 Not actual aliens but Turtles instead ^__^
 
-Connect Four project written in Python
+Alien Invaders project written in Python
 
 -I programmed this project in windows and have tested this code on Mac OS X as well.
 -To run this code Tkinter, numPy and IDLE and must be install to compile and run this code.
